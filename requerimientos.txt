@@ -1,19 +1,23 @@
-1.Apertura de cuenta
+RF1.Apertura de cuenta
 El sistema debe permitir crear una cuenta bancaria que pueda iniciar con un saldo de $0 o con un saldo inicial ingresado por el usuario al momento de la creación.
-2.Depósito de dinero
+
+RF2.Depósito de dinero
 El sistema debe permitir al usuario realizar depósitos para incrementar el saldo de la cuenta, siempre que el monto ingresado sea mayor a cero.
-3.Retiro de dinero
+
+RF3.Retiro de dinero
 El sistema debe permitir al usuario retirar dinero de la cuenta, validando que:
 -El monto ingresado sea mayor a cero.
 -El saldo disponible sea suficiente para completar la operación.
 
-4.Consulta de saldo
+RF4.Consulta de saldo
 El sistema debe permitir al usuario consultar en cualquier momento el saldo actual disponible en la cuenta.
-5.Menú de operaciones
+
+RF5.Menú de operaciones
 El sistema debe mostrar un menú interactivo que permita seleccionar las operaciones disponibles:
 -Depositar dinero
 -Retirar dinero
 -Consultar saldo
 -Salir del sistema
-6.Control de ejecución del sistema
+
+RF6.Control de ejecución del sistema
 El sistema debe continuar ejecutándose hasta que el usuario seleccione la opción de salir del programa.
